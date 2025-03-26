@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "trebuchet MS", Helvetica, sans-serif;
+    background: #fff url(../imagens/imagens-necessarias-site-noticias-cidade/imagens/fundo.png) repeat-x;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
